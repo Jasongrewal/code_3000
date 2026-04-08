@@ -1,0 +1,3 @@
+Reading Chapter 5 of Ethical Machines challenged me to think beyond good intentions. Blackman makes clear that ethical responsibility requires actively identifying who is affected by a decision and how, even when those people are not in the room.
+What resonated with me most was the idea of mapping stakeholders beyond the obvious users. Real ethical practice means asking who else is impacted — including those who are marginalized or have no voice in the process.
+Going forward, I want to consistently ask not just "can we do this?" but "who could be harmed by this, and have we truly considered them?" Ethics is not a checklist — it is an ongoing practice that requires humility, diverse perspectives, and a willingness to slow down when something feels wrong.
